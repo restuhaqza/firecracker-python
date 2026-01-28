@@ -11,7 +11,10 @@
 
 **firecracker-python** is a simple Python library that makes it easy to manage Firecracker microVMs. It provides a simple way to create, configure, and manage microVMs.
 
-Some features are still being developed and will be added in the future. You can track these in the [TODO.md](TODO.md) file.
+Some features are still being developed and will be added in the future. You can track progress in:
+- [TODO.md](TODO.md) - Detailed task list organized by priority and phase
+- [ROADMAP.md](ROADMAP.md) - Strategic roadmap with long-term vision
+- [CHANGELOG.md](CHANGELOG.md) - Version history and release notes
 
 [![asciicast](https://asciinema.org/a/725316.svg)](https://asciinema.org/a/725316)
 
@@ -200,4 +203,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contributing
 
-Contributions are welcome! Please open an issue or submit a Pull Request (PR).
+Contributions are welcome! Please:
+1. Check [TODO.md](TODO.md) for tasks you can help with
+2. Review [ROADMAP.md](ROADMAP.md) for the project direction
+3. Open an issue to discuss your ideas
+4. Submit a Pull Request with your changes
+
+For development guidelines, see [AGENTS.md](AGENTS.md).

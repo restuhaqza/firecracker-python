@@ -10,6 +10,16 @@ Welcome to the Firecracker Python SDK documentation! This documentation will hel
 - [Network](network.md)
 - [Examples](examples.md)
 
+## Project Status
+
+- **[TODO.md](../TODO.md)** - Detailed task list organized by priority and phase
+- **[ROADMAP.md](../ROADMAP.md)** - Strategic roadmap with long-term vision
+- **[CHANGELOG.md](../CHANGELOG.md)** - Version history and release notes (coming soon)
+
+## Contributing
+
+We welcome contributions! See the [TODO.md](../TODO.md) for specific tasks you can help with. For contribution guidelines, see the [Contributing Guide](CONTRIBUTING.md) (coming soon).
+
 ## What is Firecracker?
 
 Firecracker is a virtual machine monitor (VMM) that uses the Linux Kernel-based Virtual Machine (KVM) to create and manage secure, multi-tenant container and function-based services. Firecracker was developed at Amazon Web Services to improve the security and resource efficiency of container and function-based services.

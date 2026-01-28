@@ -321,6 +321,17 @@ firecracker-python/
 │   ├── configuration.md
 │   ├── examples.md
 │   └── network.md
+├── scripts/              # Utility scripts
+│   └── run-tests-docker.sh
+├── pyproject.toml        # Project configuration
+├── setup.py              # Setup script
+├── requirements.txt      # Python dependencies
+├── Makefile              # Build automation
+├── AGENTS.md             # This file
+├── README.md             # Project README
+├── TODO.md               # Planned features (detailed task list)
+├── ROADMAP.md            # Strategic roadmap (long-term vision)
+└── LICENSE               # MIT License
 ├── examples/             # Example scripts
 │   ├── create_vm.py
 │   ├── configure_vm_network.py
@@ -364,7 +375,7 @@ firecracker-python/
 
 ### Current Limitations
 
-See [`TODO.md`](TODO.md) for planned features:
+See [`TODO.md`](TODO.md) for a detailed task list organized by priority and phase, and [`ROADMAP.md`](ROADMAP.md) for strategic roadmap and long-term vision.
 
 - user-data support using cloud-init
 - Build option to build microVM from source
